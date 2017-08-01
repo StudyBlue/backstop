@@ -1,0 +1,22 @@
+{
+  "name": "backstop",
+  "version": "1.0.0",
+  "description": "visual regression tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "backstop test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/StudyBlue/backstop.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/StudyBlue/backstop/issues"
+  },
+  "homepage": "https://github.com/StudyBlue/backstop#readme",
+  "devDependencies": {
+    "backstopjs": "^2.7.5"
+  }
+}
