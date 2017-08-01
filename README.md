@@ -1,5 +1,5 @@
 # backstop
-This project uses the BackstopJS library to test for visual regressions on the site. 
+This project uses the [BackstopJS](https://github.com/garris/BackstopJS) library to test for visual regressions on the site. 
 
 ## Running the tests
 
